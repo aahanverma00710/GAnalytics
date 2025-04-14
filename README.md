@@ -1,4 +1,4 @@
-# app_event_analytics
+# Analytics
 
 A new Flutter project.
 
