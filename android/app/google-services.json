@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "666696354096",
+    "project_id": "al-coding-projects",
+    "storage_bucket": "al-coding-projects.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666696354096:android:524f2a2c49c998f143a0f5",
+        "android_client_info": {
+          "package_name": "com.aahancoding.noplatedetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGs96IXgEVyTrbSfrSXAJQuwS7yIB1FDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666696354096:android:5231259e7662ff9343a0f5",
+        "android_client_info": {
+          "package_name": "com.avcoding.appanalytics.app_event_analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGs96IXgEVyTrbSfrSXAJQuwS7yIB1FDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666696354096:android:2c69f95f64ae0aa043a0f5",
+        "android_client_info": {
+          "package_name": "com.xatchup.xatchup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGs96IXgEVyTrbSfrSXAJQuwS7yIB1FDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
